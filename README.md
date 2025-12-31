@@ -45,6 +45,4 @@ Throughout the project, emphasis was placed on **data organization, logical reas
 ## Repository Structure
 
 - `Final paper.pdf` — Detailed explanation of the project  
-- `notebooks/` or `src/` — Code used for data processing, modeling, and evaluation  
-
 ---
