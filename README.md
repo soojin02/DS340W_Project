@@ -5,7 +5,7 @@
 
 This project explores how data and machine learning can be used to better understand **automation risk across different job roles**, focusing on how job characteristics and skill requirements relate to the likelihood of automation.
 
-To make the project easier to understand before reviewing the code, a **final paper.pdf** is included in this repository. The paper explains the motivation, data, methodology, and findings in a more accessible and structured way.
+To make the project easier to understand before reviewing the code, a **Final paper.pdf** is included in this repository. The paper explains the motivation, data, methodology, and findings in a more accessible and structured way.
 
 📄 **Recommended starting point:**  
 Please read **Final paper.pdf** before exploring the code to gain context on the project and the reasoning behind the analysis.
